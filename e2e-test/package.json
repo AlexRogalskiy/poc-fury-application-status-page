@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@testing-library/cypress": "8.0.1",
-    "@types/testing-library__cypress": "5.0.9",
+    "@types/testing-library__cypress": "5.0.13",
     "cypress": "8.7.0",
     "eslint": "7.32.0",
     "eslint-plugin-chai-friendly": "0.7.2",
