@@ -37,7 +37,7 @@ RUN mkdir static/
 COPY --from=webapp web-client/dist/ static/
 RUN goreleaser build --debug --snapshot --rm-dist
 
-FROM debian:buster as release
+FROM debian:buster-20240612 as release
 
 RUN mkdir -p /app
 WORKDIR /app
