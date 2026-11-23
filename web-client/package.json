@@ -46,7 +46,7 @@
     "identity-obj-proxy": "3.0.0",
     "jest": "27.3.1",
     "js-yaml": "4.1.0",
-    "miragejs": "0.1.42",
+    "miragejs": "0.1.48",
     "moment": "2.29.4",
     "prettier": "2.4.1",
     "prop-types": "15.7.2",
